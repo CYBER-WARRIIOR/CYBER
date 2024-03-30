@@ -1,23 +1,23 @@
 {
   "name": "sigma-md",
   "version": "1.5.3",
-  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
+  "description": "A CRAZY WHATSAPP BOT BY Muhmmad Usman",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
-      "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
-      "stop": "pm2 stop SIGMA-MD"
+      "start": "pm2 start lib/client.js --deep-monitoring --attach --name CYBER",
+      "stop": "pm2 stop CYBER"
   },
-  "author": "Maher-Zubair",
+  "author": "MUHMMAD USMAN",
   "license": "Apache-2.0",
   "keywords": [
       "bot",
       "Whatsapp bot",
-      "sigma-md",
-      "sigma",
-      "sigma-md bot",
-      "SIGMA-MD",
-      "Maher-Zubair",
+      "Cyber-md",
+      "Cyber",
+      "Cyber-md bot",
+      "CYBER-MD",
+      "MUHMMAD USMAN ",
       "Multi-Device Bot",
       "WaBot",
       "Baileys Bot"
@@ -86,10 +86,10 @@
   },
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/Maher-Zubair/SIGMA-MD.git"
+      "url": "git+https://github.com/CYBER-WARRIIOR/CYBER.git"
   },
   "bugs": {
-      "url": "https://github.com/Maher-Zubair/SIGMA-MD/issues"
+      "url": "https://github.com/CYBER-WARRIIOR/CYBER.issues"
   },
-  "homepage": "https://github.com/Maher-Zubair/SIGMA-MD#readme"
+  "homepage": "https://github.com/CYBER-WARRIIOR/CYBER#git"
 }
