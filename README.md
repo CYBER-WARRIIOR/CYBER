@@ -3,25 +3,25 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@Innoxentech?sub_confirmation=1">
-    <img alt=Support height="350" src="https://i.imgur.com/O7AQZX9.mp4"> 
+    <img alt=Support height="350" src="[https://i.imgur.com/O7AQZX9.mp4](https://i.imgur.com/ur24PoA.jpg)"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MAHER+ZUBAIR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+CYBER-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MUHMMAD+USMAN;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair">
-    <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/CYBER-WARRIIOR">
+    <img src="https://img.shields.io/github/followers/CYBER-WARRIIOR?style=flat-square&logo=github&color=black">
 
-   <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+   <a href="https://github.com/CYBER-WARRIIOR/cyber/fork">
+    <img src="https://img.shields.io/github/forks/CYBER-WARRIIOR/Cyber?style=flat-square&logo=github&color=black">
     
     
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-     <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/CYBER-WARRIIOR/Cyber/stargazers"> 
+     <img src="https://img.shields.io/github/stars/CYBER-WARRIIOR/Cyber?style=flat-square&logo=github&color=black">
 
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
-     <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/CYBER-WARRIIOR/Cyber/watchers"> 
+     <img src="https://img.shields.io/github/watchers/CYBER-WARRIIOR/Cyber?style=flat-square&logo=github&color=black">
 
   </a>
 
@@ -29,21 +29,21 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-Maher_Zubair-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
+<a href="https://github.com/CYBER-WARRIIOR"><img title="Owner" src="https://img.shields.io/badge/OWNER-CYBER-WARRIOR-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
+  <a href="https://github.com/CYBER-WARRIIOR/Cyber/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/CYBER-WARRIIOR/Cyber?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
 
 <p align="center"> 
-    <a aria-label="Subscribe Me" href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1" target="_blank">
+    <a aria-label="Subscribe Me" href="https://www.youtube.com/@InnoxntTech?sub_confirmation=1" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
     <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    
-<p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{CYBER-WARRIIOR}/count.svg" alt="CYBER-WARRIIOR:: Visitor's Count" /></p>
 
 ##
-***Why Choose SIGMA-MD, Must Check Bot Features And ChangeLog***
+***Why Choose Cyber-MD, Must Check Bot Features And ChangeLog***
  <details close>
 <summary>𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎</summary>
    
@@ -139,27 +139,27 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
-3. ***Get Your [SESSION ID](https://session.maher-zubair.tech)***
-4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
-5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
-6. ***Deploy on [Replit](https://maher-zubair.tech/Bot/deploy/replit)***
-7. ***Deploy on [Railway](https://maher-zubair.tech/Bot/deploy/railway)***
-8. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/deploy/codespace)***
-9. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
-10. ***Install [External Plugins](https://github.com/Maher-Zubair/SIGMA-MD_Plugins)***
+2. ***Click [FORK](https://github.com/CYBER-WARRIIOR/Cyber/fork)***
+4. ***Get Your [SESSION ID](https://session.maher-zubair.tech)***
+5. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
+6. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
+7. ***Deploy on [Replit](https://maher-zubair.tech/Bot/deploy/replit)***
+8. ***Deploy on [Railway](https://maher-zubair.tech/Bot/deploy/railway)***
+9. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/deploy/codespace)***
+10. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
+11. ***Install [External Plugins](https://github.com/CYBER-WARRIIOR/cyber_Plugins)***
 ##
 
 - ***Strictly! Use Your Own MongoDB Key, It's DataBase For Bot.***
 - ***Strictly! Don't Give Your Or Use Someone's MongoDB Url, Otherwise You Both Will Get Issues.***
 - ***Strictly! Without MongoDB Your Bot Will Not Run.***
 - ***Need Unlimited Stars On MY Repo***
-- ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com/Maher-Zubair/SIGMA-MD/issues/new).***
-- ***Also IF You Want To Give Me Ideas About Cmds, Then Create [Issue](https://github.com/Maher-Zubair/SIGMA-MD/issues/new) With Title #Idea.***
+- ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com/CYBER-WARRIIOR/Cyber/issues/new).***
+- ***Also IF You Want To Give Me Ideas About Cmds, Then Create [Issue](https://github.com/CYBER-WARRIIOR/Cyber/issues/new) With Title #Idea.***
 ##
 
 
-- ***Star ⭐ My Repo If You Like SIGMA-MD.***
+- ***Star ⭐ My Repo If You Like Cyber-MD.***
 - ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
@@ -168,11 +168,11 @@
 - ***Everyone***
 - ***Who Helped Me***
 - ***Who Uses This Bot And Supports Me***
-- ***Support Me By Buying Me A [Coffee](https://buymeacoffee.com/Maher_Zubair)***
+- ***Support Me By Buying Me A [Coffee](https://buymeacoffee.com/CYBER-WARRIIOR)***
 
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [Maher-Zubair](https://github.com/CYBER-WARRIIOR)***
