@@ -3,32 +3,26 @@
 //                                   MULTI-DEVICE WHATSAPP BOT                                          //
 //                                                                                                      //
 //                                            𝚅.𝟷.𝟻.𝟹                                                  // 
+//                                                                                                      // 
+//                      ░█████╗░██╗░░░██╗██████╗░███████╗██████╗░
+//                      ██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝██╔══██╗
+//                      ██║░░╚═╝░╚████╔╝░██████╦╝█████╗░░██████╔╝
+//                      ██║░░██╗░░╚██╔╝░░██╔══██╗██╔══╝░░██╔══██╗
+//                      ╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║
+//                      ░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝
+
+//
 //                                                                                                      //
-//              ███████╗██╗ ██████╗ ███╗   ███╗ █████╗     ███╗   ███╗██████╗                           //
-//              ██╔════╝██║██╔════╝ ████╗ ████║██╔══██╗    ████╗ ████║██╔══██╗                          //
-//              ███████╗██║██║  ███╗██╔████╔██║███████║    ██╔████╔██║██║  ██║                          //
-//              ╚════██║██║██║   ██║██║╚██╔╝██║██╔══██║    ██║╚██╔╝██║██║  ██║                          //
-//              ███████║██║╚██████╔╝██║ ╚═╝ ██║██║  ██║    ██║ ╚═╝ ██║██████╔╝                          //
-//              ╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═════╝                           //
-//                                                                                                      //
-//                                          BY:MAHER-ZUBAIR                                             //
+//                                          BY:MUHMMAD-USMAN                                        //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 /**
 
-* @project_name : SIGMA-MD
-* @Developer : Maher-Zubair
+* @project_name : 𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹
+* @Developer : 𝐌𝐮𝐡𝐦𝐦𝐚𝐝 𝐔𝐬𝐦𝐚𝐧
 * @Version : v.1.5.3
-* @license : Apache-2.0
-
-This Project Is Under Apache-2.0 License.
-So, No One Have Permission To Copy This Project,
-Reupload, Reversed Engineering And Any Kind Of Deobfuscation.
-Otherwise, A Legal Github Copyright Action Will Be Taken Against You
-Which Result In Removing The Copied Project And Permanantly Banning Of Your Account.
-* @Copyright_owner : Maher-Zubair
 
 **/
 
@@ -44,21 +38,20 @@ global.audio = '' ;
 global.video = '' ;
 global.lol   = 'GataDios'
 global.cali  = `lykoUzNh`
-global.devs  = "923466319114";
+global.devs  = "923285287150";
 global.inrl_key = `inrl-bot-mdaqz3ks6md7`;
 global.inrl_api = `https://upper-romy-inrl-bot.koyeb.app/`;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
-global.email     = 'support@maher-zubair.tech' ; 
-global.github    = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
-global.location  = 'Lahore, Pakistan' ;
-global.website   = 'https://maher-zubair.tech' ; 
+global.email     = 'Cyberwarriorhck428@gmail.com' ; 
+global.github    = 'https://github.com/CYBER-WARRIIOR/CYBER' ;
+global.location  = 'Lahore, Pakistan'
 global.maher_api = process.env.MAHER_API || `https://api.maher-zubair.tech/` ; // MY OWN OFFICIAL API WEBSITE, YOU CAN USE IT IN YOUR BOT OR PROJECT
 //=================================================================================
 
 
 //===========================[COMPULSORY VARIABLES]================================
-global.owner = process.env.OWNER_NUMBER  || '923466319114' ;  // ADD YOUR NUMBER WITHOUT +
+global.owner = process.env.OWNER_NUMBER  || '923285287150' ;  // ADD YOUR NUMBER WITHOUT +
 global.mongodb = process.env.MONGODB_URI || "" ;            // PUT MONGODB KEY HERE, WITHOUT MONGODB YOUR BOT WILL NOT RUN
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZONE OR LEAVE IT SAME , OTHERWISE YOU GET ERROS
 //=================================================================================
@@ -66,9 +59,8 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZO
 
 //======================[YOUR CHOICE, CHANGE OR LEAVE IT SAME]=====================
 global.sudo  =  process.env.SUDO || "923466319114" ;          // DON'T REMOVE
-global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
-global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
+global.mztit = process.env.MZTIT ||"🅲♥︎❚❚🆆 ",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/O7AQZX9.mp4' ;
 //=================================================================================
 
 
@@ -76,18 +68,18 @@ module.exports = {
 
   //==============================[COMPULSORY]=====================================
   sessionName: process.env.SESSION_ID || '',              // PUT YOUR SESSION ID
-  botname: process.env.BOT_NAME       || 'sɪɢᴍᴀ-ᴍᴅ',         // ADD YOUR BOT NAME
-  ownername:  process.env.OWNER_NAME  || `ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ`, // ADD YOUR NAME
+  botname: process.env.BOT_NAME       || '𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹',         // ADD YOUR BOT NAME
+  ownername:  process.env.OWNER_NAME  || `𝐌𝐮𝐡𝐦𝐦𝐚𝐝 𝐔𝐬𝐦𝐚𝐧`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
   WORKTYPE: process.env.WORKTYPE      || 'public',      // IF PRIVATE ONLY YOU CAN USE YOUR BOT, IF PUBLIC EVERYONE CAN USE YOUR BOT
   //================================================================================
 
 
   //==============================[WHAT'SAPP FEATURES]==============================
-  author:  process.env.PACK_AUTHER  || 'ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ',      // ADD YOUR STICKER AUTHOR NAME
+  author:  process.env.PACK_AUTHER  || '𝐌𝐮𝐡𝐦𝐦𝐚𝐝 𝐔𝐬𝐦𝐚𝐧',      // ADD YOUR STICKER AUTHOR NAME
   status_view : process.env.AUTO_STATUS_VIEW   || 'false',    // IF IT TRUE IT AUTOMATICALLY VIEWS YOUR STATUSES
   status_saver : process.env.AUTO_STATUS_SAVER || 'false', // IF TRUE IT AUTOMATICALLY DOWNLOADS YOUR STATUSES AND SEND IN YOUR INBOX
-  packname:  process.env.PACK_NAME  || "sɪɢᴍᴀ-ᴍᴅ" ,          // ADD YOUR STICKER PACKNAME
+  packname:  process.env.PACK_NAME  || "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹" ,          // ADD YOUR STICKER PACKNAME
   autoreaction: process.env.AUTO_REACTION || 'false',    // IF TRUE IT WILL REACT TO YOUR MESSAGES
   readmessage: process.env.READ_MESSAGE   || 'false',      // IF TRUE IT WILL SEEN ALL YOUR MESSAGES
   disablepm: process.env.DISABLE_PM || "false",        // IF TRUE IT WILL DISABLE THE BOT IN YOUR PM
@@ -113,7 +105,7 @@ module.exports = {
   BRANCH: process.env.BRANCH   || 'Main',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
-  caption :process.env.CAPTION || "*• ѕιgмα-м∂ мυℓтι-∂єνι¢є*\n*• ωнαтѕαρρ вσт* ",
+  caption :process.env.CAPTION || "*🌸🤭- " 𝐀 𝐅ɑkə 𝐒mıɭə 𝐂ɑη ┣𝐥ıdə  𝐌ıɭɭıoηs 𝐎f 𝐓əɑrs ||%❤😚* ",
   LANG: process.env.THEME || "SIGMA_MD",
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟻.𝟹'
   //=================================================================================
